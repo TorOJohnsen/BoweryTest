@@ -1,0 +1,22 @@
+{
+  "name": "bower-test",
+  "homepage": "https://github.com/TorOJohnsen/BoweryTest",
+  "authors": [
+    "Tor Oskar Ova Johnsen <toroskar@arkitektum.no>"
+  ],
+  "description": "This is the description",
+  "main": ["js/scripts.js"],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
